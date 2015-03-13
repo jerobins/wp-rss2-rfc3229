@@ -1,0 +1,1 @@
+RFC3229 provides a mechanism to send only recent modifications to an existing RSS 2.0 XML feed.  This is a prototype implementation.
